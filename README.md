@@ -1,6 +1,6 @@
 <h1 align="center"> Opa! Eu sou o Cauê Peruque 👋 </h1>
 
-<h3 align="center"> 🌱 Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, buscando aprimorar minhas experiências e me apaixonando cada vez mais por códigos</h3>
+<h3 align="center"> 💻 Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, buscando aprimorar minhas experiências e me apaixonando cada vez mais por códigos</h3>
 
 ##
 
@@ -29,3 +29,4 @@
 
 ![Snake animation](https://github.com/caueperuque/caueperuque/blob/output/github-contribution-grid-snake.svg)
 
+  
