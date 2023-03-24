@@ -1,7 +1,9 @@
-### Opa! Eu sou o Cauê Peruque
+<h1 align="center"> Opa! Eu sou o Cauê Peruque 👋 </h1>
 
-- 🌱 Estudando na Trybe (Front-End, Back-end, Computer Science e Soft Skills)
-- 😄 Pronome: ele/dele
+<h3 align="center"> 🌱 Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, buscando aprimorar minhas experiências e me apaixonando cada vez mais por códigos</h3>
+
+##
+
 
 <div align="center">
   <a href="https://github.com/caueperuque">
@@ -15,14 +17,13 @@
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caue-JEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
 
 ##
 
 <div align="center"> 
   <a href="https://www.instagram.com/caue.peruque" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "cauepptrybe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caueperuque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
 </div>
+
