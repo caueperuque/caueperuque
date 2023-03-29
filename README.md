@@ -1,8 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=header"/>
+
 <h1 align="center"> Opa! Eu sou o Cauê Peruque 👋 </h1>
 
 <h3 align="center"> 💻 Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, buscando aprimorar minhas experiências e me apaixonando cada vez mais por códigos</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer+in+the+making;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development+em+desenvolvimento!;Bem+vindo!+Fique+a+vontade+para+me+contatar!)](https://git.io/typing-svg)
 
 ##
 
@@ -31,4 +34,6 @@
 
 ![Snake animation](https://github.com/caueperuque/caueperuque/blob/output/github-contribution-grid-snake.svg)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
   
