@@ -15,10 +15,7 @@
 <br>
 
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
-> [![WebSite][WebSite-card]][WebSite-url]
-
-[WebSite-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&logo=Safari&logoColor=FFFFFF&label=
-[WebSite-url]: https://caue.webmenu.dev/
+Aqui está meu <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
 
 ## Linguagens e ferramentas:
 
