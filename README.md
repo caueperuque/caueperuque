@@ -4,23 +4,15 @@
 
 <h3 align="center"> 💻 Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, buscando aprimorar minhas experiências e me apaixonando cada vez mais por códigos</h3>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Software+Development+em+desenvolvimento!;Bem+vindo!+Fique+a+vontade+para+me+contatar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
 
 ## Me encontre aqui:
 
-> [![LinkedIn][LinkedIn-card]][LinkedIn-url]
-[![Instagram][Instagram-card]][Instagram-url]
-[![Mail][Mail-card]][Mail-url]
-
-[LinkedIn-card]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-url]: https://linkedin.com/in/caueperuque
-
-[Instagram-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=
-[Instagram-url]: [https://www.instagram.com/caue.peruque/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[Mail-card]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Mail-url]: mailto:caue19052003@gmail.com
+<div align="center">
+  <a href="https://www.instagram.com/caue.peruque/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caueperuque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<br>
 
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
 > [![WebSite][WebSite-card]][WebSite-url]
