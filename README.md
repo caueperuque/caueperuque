@@ -17,6 +17,8 @@
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
 Aqui está meu <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caueperuque&bg_color=0d1117&color=f061f2&line=50fa7b&point=f061f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Linguagens e ferramentas:
 
 <div style="display: inline_block" align="center"><br>
