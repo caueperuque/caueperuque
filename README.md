@@ -15,7 +15,9 @@
 <br>
 
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
-Aqui está meu <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
+Aqui está meu <a href="https://jfzini-dev.vercel.app/">Portfolio</a>! </h1>
+
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caueperuque&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
