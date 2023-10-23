@@ -56,9 +56,6 @@ Aqui está meu <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
-##
-
-![Snake animation](https://github.com/caueperuque/caueperuque/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
