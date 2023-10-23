@@ -13,13 +13,13 @@
 [![Instagram][Instagram-card]][Instagram-url]
 [![Mail][Mail-card]][Mail-url]
 
-[LinkedIn-card]: https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
+[LinkedIn-card]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://linkedin.com/in/caueperuque
 
 [Instagram-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=
-[Instagram-url]: https://www.instagram.com/caue.peruque/
+[Instagram-url]: [https://www.instagram.com/caue.peruque/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[Mail-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=
+[Mail-card]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Mail-url]: mailto:caue19052003@gmail.com
 
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
@@ -50,16 +50,16 @@
 [![Bash][Bash]][Bash-url]
 [![Docker][Docker]][Docker-url]
 
-[Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
+[Node.js-card]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node.js-url]: https://nodejs.org/en
 
-[JavaScript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com
 
-[MYSQL]: https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white
+[MYSQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [MYSQL-url]: https://www.mysql.com
 
-[Mocha]: https://img.shields.io/badge/MOCHA-6D4A31?style=for-the-badge&logo=mocha&logoColor=white
+[Mocha]: https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white
 [Mocha-url]: https://mochajs.org
 
 [Chai]: https://img.shields.io/badge/chai-974942?style=for-the-badge&logo=chai&logoColor=white
